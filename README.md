@@ -8,6 +8,16 @@ A collection of Android game ports and applications for dual screen Android devi
 
 ---
 
+## Emulators
+
+| Project | Description |
+|---------|-------------|
+| [MelonDualDS](https://github.com/SapphireRhodonite/melonDS-android) | Nintendo DS fork designed for dual screens. |
+| [Azahar](https://github.com/azahar-emu/azahar) | Nindendo 3DS emulator that supports dual screens. |
+| [Cemu](https://github.com/SapphireRhodonite/Cemu) | Wii U emulator fork designed for dual screens. |
+
+---
+
 ## Games
 
 | Project | Game | Description |
@@ -20,6 +30,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Fallout Pip-Boy](https://www.nexusmods.com/fallout4/mods/67428) | Fallout 4 (GOG Game of the Year Edition) | Official Fallout 4 compaion app made by Bethesda. Only works with GOG version of the game. Must obtain APK from a reupload. Utilize second screen to view character stats, quests, inventory, and a live map. |
 | [BanjoRecomp Android](https://github.com/AurelioB/BanjoRecomp-Android) | Banjo-Kazooie | Recompilation featuring DS support with gameplay information moved to the secondary display. Includes collectables and % completion. |
 | [Balatro Dual Screen 🤖](https://github.com/rosbean/balatro-dualscreen) | Balatro | DS fork of Balatro. Requires Steam, MacOS, or .love copy of the game. Moves hand, shop, booster packs, and menus to the secondary display. |
+
 ---
 
 ## Companion Apps
@@ -34,6 +45,15 @@ A collection of Android game ports and applications for dual screen Android devi
 
 ---
 
+## Frontends
+
+| Project | Description |
+|---------|-------------|
+| [CocoonFE](https://github.com/inssekt/CocoonFE) | Frontend for native dual screen usage. Has a Wii look.|
+| [es-de-companion](https://github.com/RobZombie9043/es-de-companion) | Companion that gives ES-DS better dual screen capability. |
+
+
+---
 ## License
 
 This repository only catalogs projects. Each listed project retains its own license and ownership.
