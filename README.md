@@ -22,6 +22,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Balatro Dual Screen 🤖](https://github.com/rosbean/balatro-dualscreen) | Balatro | DS fork of Balatro. Requires Steam, MacOS, or .love copy of the game. Moves hand, shop, booster packs, and menus to the secondary display. |
 | [Super Metroid Android 🤖](https://github.com/Raekwon1603/super_metroid-android) | Super Metroid | Android SNES emulator for Super Metroid with dual screen support. DS interface with interactive live map, items, and ammo. |
 | [Kanto Gear 🤖](https://github.com/AverageConsumer/kanto-gear) | Pokemon Red, Blue, Yellow | Requires fork of the gen1recomp project and installation of the mod. Moves battle choices, dialogue and more to secondary display. Interactive map, party, steps, and area data. |
+| [JourneyMap Web Map](https://modrinth.com/mod/journeymap-web-map) | Minecraft Java Edition | Mod for use with with Minecraft JE clients (DroidBridge, Amethyst, Pojav, etc.). Requires JourneyMap mod installed. Launch a web browser to connect to localhost port. Displays a live world map on secondary screen with customizable entity locations. |
 ---
 
 ## Companion Apps
