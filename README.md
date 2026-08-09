@@ -23,6 +23,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Super Metroid Android 🤖](https://github.com/Raekwon1603/super_metroid-android) | Super Metroid | Android SNES emulator for Super Metroid with dual screen support. DS interface with interactive live map, items, ammo, save states, and optional HUD removal. |
 | [Kanto Gear 🤖](https://github.com/AverageConsumer/kanto-gear) | Pokemon Red, Blue, Yellow | Requires fork of the gen1recomp project and installation of the mod. Moves battle choices, dialogue and more to secondary screen. Interactive map, party, steps, and area data. |
 | [JourneyMap Web Map](https://modrinth.com/mod/journeymap-web-map) | Minecraft Java Edition | Mod for use with Minecraft JE clients (DroidBridge, Amethyst, etc.). Requires JourneyMap mod installed. Launch a web browser to connect to localhost port. Provides a live world map on secondary screen with optional entity locations. |
+| [Minecraft Second Screen 🤖](https://github.com/exojosh/AynThorSecondScreen) | Minecraft Java Edition | Companion app and mod for Minecraft JE clients. Requires version 1.21.11. Moves hud and containers to secondary screen with a live map. Tabs for chat, inventory management, and input hotkeys. |
 | [Harvest Moon 64 Recomp 🤖](https://github.com/igawa6/HarvestMoon64Recomp) | Harvest Moon 64 | Android port of HM64Recomp with dual screen support. Shows inventory, stamina, currency, time and date, calendar, and more on secondary screen. |
 ---
 
