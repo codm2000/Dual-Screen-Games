@@ -27,6 +27,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [JourneyMap Web Map](https://modrinth.com/mod/journeymap-web-map) | Minecraft Java Edition | Mod for use with Minecraft JE clients (DroidBridge, Amethyst, etc.). Requires JourneyMap mod installed. Launch a web browser to connect to localhost port. Provides a live world map on secondary screen with optional entity locations. |
 | [Minecraft Second Screen 🤖](https://github.com/exojosh/AynThorSecondScreen) | Minecraft Java Edition | Companion app and mod for Minecraft JE clients. Requires version 1.21.11. Moves hud and containers to secondary screen with a live map. Tabs for chat, inventory management, and input hotkeys. |
 | [Harvest Moon 64 Recomp 🤖](https://github.com/igawa6/HarvestMoon64Recomp) | Harvest Moon 64 | Android port of HM64Recomp with dual screen support. Shows inventory, stamina, currency, time and date, calendar, and more on secondary screen. |
+| [Stardew Valley DS 🤖](https://github.com/JoeCorrell/AYN-Thor-Dualscreen-Mods) | Stardew Valley | Mod and app for SV. Secondary screen with day & farm information, inventory, bundles, journal, calendar, relationships, crafting, and a live map with NPC locations. |
 ---
 
 ## Companion Apps
