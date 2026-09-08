@@ -31,6 +31,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Harvest Moon 64 Recomp 🤖](https://github.com/igawa6/HarvestMoon64Recomp) | Harvest Moon 64 | Android port of HM64Recomp with dual screen support. Shows inventory, stamina, currency, time and date, calendar, and more on secondary screen. |
 | [HK: Dual Souls 🤖](https://github.com/igawa6/dualsouls) | Hollow Knight | Android port of Hollow Knight with dual screen support. DS interface with soul, masks, inventory, charms, equipped charms, location, and a live map. |
 | [Silksong Android 🤖](https://github.com/jakobkhansen/SilksongAndroid) | Hollow Knight: Silksong | Android port of Silksong with dual screen support. Includes Steam integration, inventory and crest managment, quests, hunters journal, and a live interactive map. |
+| [ChronoDuo 🤖](https://github.com/kalenjohnson/chrono-duo) | Chrono Trigger | A dual-screen host for Chrono Trigger. The original game runs full-widescreen on the top screen while the bottom screen becomes a DS-style companion display: a live world map, party status, and the whole battle command menu. Also optionally can restore the original graphics, overriding the mobile blurry upscaled graphics, and can also import room maps from the DS rom. |
 ---
 
 ## Companion Apps
