@@ -20,6 +20,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Fallout Pip-Boy](https://www.nexusmods.com/fallout4/mods/67428) | Fallout 4 (GOG Game of the Year Edition) | Official Fallout 4 companion app made by Bethesda. Only works with GOG version of the game. Must obtain APK from a reupload. Utilizes secondary screen to view character stats, quests, inventory, and a live map. |
 | [BanjoRecomp Android](https://github.com/AurelioB/BanjoRecomp-Android) | Banjo-Kazooie | Recompilation featuring DS support with gameplay information moved to the secondary screen. Includes collectibles and % completion. |
 | [CTR-DS 🤖](https://github.com/igawa6/ctr-native-android) | Crash Team Racing | Fork of CTR Native with dual screen support. DS interface with track map, placements, items, time, and speedometer. |
+| [Tomba2RecompDS 🤖](https://github.com/igawa6/Tomba2RecompDS) | Tomba! 2: The Evil Swine Return | Fork of Tomba2Recomp with dual screen support. DS interface with items, events, status, equipment, and a help tab for optional walkthrough. |
 | [DW3-DS 🤖](https://github.com/rsigristc/DW3-DS-Android) | Digimon World (2003) | Companion app for Digimon World 2003 (SLES-03936) with support for Flawe's Mod 2.0. DS interface with battle, fast travel, tamer, partners, story stage, equipment and an offline walkthrough. |
 | [Balatro Dual Screen 🤖](https://github.com/rosbean/balatro-dualscreen) | Balatro | DS fork of Balatro. Requires Steam, macOS, or .love copy of the game. Moves hand, shop, booster packs, and menus to the secondary screen. |
 | [Super Metroid Android 🤖](https://github.com/Raekwon1603/super_metroid-android) | Super Metroid | Android SNES emulator for Super Metroid with dual screen support. DS interface with interactive live map, items, ammo, save states, and optional HUD removal. |
@@ -32,6 +33,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Harvest Moon 64 Recomp 🤖](https://github.com/igawa6/HarvestMoon64Recomp) | Harvest Moon 64 | Android port of HM64Recomp with dual screen support. Shows inventory, stamina, currency, time and date, calendar, and more on secondary screen. |
 | [HK: Dual Souls 🤖](https://github.com/igawa6/dualsouls) | Hollow Knight | Android port of Hollow Knight with dual screen support. DS interface with soul, masks, inventory, charms, equipped charms, location, and a live map. |
 | [Silksong Android 🤖](https://github.com/jakobkhansen/SilksongAndroid) | Hollow Knight: Silksong | Android port of Silksong with dual screen support. Includes Steam integration, inventory and crest managment, quests, hunters journal, and a live interactive map. |
+| [ChronoDuo 🤖](https://github.com/kalenjohnson/chrono-duo) | Chrono Trigger | Companion app for Google Play Store version. Optional DS ROM required for indoor area maps. DS interface with a live world map, party status, and battle command menu. |
 ---
 
 ## Companion Apps
