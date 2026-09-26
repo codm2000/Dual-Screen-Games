@@ -34,6 +34,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [HK: Dual Souls 🤖](https://github.com/igawa6/dualsouls) | Hollow Knight | Android port of Hollow Knight with dual screen support. DS interface with soul, masks, inventory, charms, equipped charms, location, and a live map. |
 | [Silksong Android 🤖](https://github.com/jakobkhansen/SilksongAndroid) | Hollow Knight: Silksong | Android port of Silksong with dual screen support. Includes Steam integration, inventory and crest managment, quests, hunters journal, and a live interactive map. |
 | [ChronoDuo 🤖](https://github.com/kalenjohnson/chrono-duo) | Chrono Trigger | Companion app for Google Play Store version. Optional DS ROM required for indoor area maps. DS interface with a live world map, party status, and battle command menu. |
+| [ZomboidDS 🤖](https://github.com/Space001000/ZomboidDS) | Project Zomboid | Mod and companion app for Zomdroid. DS interface with inventory management, status and injuries, crafting, vehicle information, and deck with speed controls. |
 ---
 
 ## Companion Apps
