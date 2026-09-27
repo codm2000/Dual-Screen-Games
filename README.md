@@ -15,6 +15,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Zelda 3 Android Dual Screen 🤖](https://github.com/samyost1/zelda3-android) | The Legend of Zelda: A Link to the Past | DS interface featuring maps, inventory, equipment, settings, save states, and optional HUD removal. |
 | [The Minish Cap Android 🤖](https://github.com/samyost1/tmc-android) | The Legend of Zelda: The Minish Cap | DS interface featuring maps, inventory, equipment, settings, and optional HUD removal. |
 | [Dusklight Dual Screen 🤖](https://github.com/igawa6/dusklight) | The Legend of Zelda: Twilight Princess | Fork of Dusklight with interactive maps, inventory management, collection tracking, and an optional guide. Provides a Wii U/3DS style interface. |
+| [Links Awakening DS 🤖](https://github.com/igawa6/eden-duo-companions) | The Legend of Zelda: Link's Awakening | Requires Eden Duo fork and game update 1.0.1. DS interface with inventory, gear, and a live map. |
 | [OpenMW-DS 🤖](https://github.com/Josh-Daniels/OpenMW-DS) | The Elder Scrolls III: Morrowind | DS fork of OpenMW featuring interface improvements, inventory/magic management, character info, quests/journal and a live map. |
 | [Skyrim Web Monitor 🤖](https://github.com/andreyvelsk/SkyrimWebMonitor) | The Elder Scrolls V: Skyrim | Displays Skyrim game information on the secondary screen. Includes character info, inventory/magic management, quests, and a live map. |
 | [Fallout Pip-Boy](https://www.nexusmods.com/fallout4/mods/67428) | Fallout 4 (GOG Game of the Year Edition) | Official Fallout 4 companion app made by Bethesda. Only works with GOG version of the game. Must obtain APK from a reupload. Utilizes secondary screen to view character stats, quests, inventory, and a live map. |
@@ -25,6 +26,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Balatro Dual Screen 🤖](https://github.com/rosbean/balatro-dualscreen) | Balatro | DS fork of Balatro. Requires Steam, macOS, or .love copy of the game. Moves hand, shop, booster packs, and menus to the secondary screen. |
 | [Super Metroid Android 🤖](https://github.com/Raekwon1603/super_metroid-android) | Super Metroid | Android SNES emulator for Super Metroid with dual screen support. DS interface with interactive live map, items, ammo, save states, and optional HUD removal. |
 | [HuntersRecomp 🤖](https://github.com/aabrole/HuntersRecomp) | Metroid Prime Hunters | DS fork of MetroidPrimeHuntersRecomp. Supports stylus and twin-stick controls. Includes resolution upscale, fast forward, and option to rebind touchscreen actions to controller inputs. |
+| [MetroidDreadDS 🤖](https://github.com/igawa6/eden-duo-companions) | Metroid Dread | Requires Eden Duo fork and game update 2.1.0. DS interface with item percentage, missles and bombs, and a live map that shows items and EMMI zones. |
 | [Kanto Gear 🤖](https://github.com/AverageConsumer/kanto-gear) | Pokémon Red, Blue, Yellow, Gold, Silver | Mod for Gen1Recomp. Moves battle choices, dialogue and more to secondary screen. Interactive map, party, steps, and area data. |
 | [PokeEmerald-DS 🤖](https://github.com/Goldoire/pokeemerald-dualscreen) | Pokémon Emerald | DS fork of Emerald decomp. DS interface featuring Gen 4 style battle options, party info, bag, trainer card, and a live map. |
 | [Showdown-DS](https://github.com/castdrian/showdown-ds) | Pokémon Showdown | Pokémon Showdown client with dual screen support. Battle and player info on primary screen, moves, party, activity, and menu moved to secondary screen. |
@@ -35,6 +37,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Silksong Android 🤖](https://github.com/jakobkhansen/SilksongAndroid) | Hollow Knight: Silksong | Android port of Silksong with dual screen support. Includes Steam integration, inventory and crest managment, quests, hunters journal, and a live interactive map. |
 | [ChronoDuo 🤖](https://github.com/kalenjohnson/chrono-duo) | Chrono Trigger | Companion app for Google Play Store version. Optional DS ROM required for indoor area maps. DS interface with a live world map, party status, and battle command menu. |
 | [ZomboidDS 🤖](https://github.com/Space001000/ZomboidDS) | Project Zomboid | Mod and companion app for Zomdroid. DS interface with inventory management, status and injuries, crafting, vehicle information, and deck with speed controls. |
+| [Persona5RoyalDS 🤖](https://github.com/igawa6/eden-duo-companions) | Persona 5 Royal | Requires Eden Duo fork and game update 1.0.2. DS interface with skills, stats, items, equipment, confidants, requests, calendar and area map. Battle and dialogue options on secondary screen. |
 ---
 
 ## Companion Apps
@@ -52,6 +55,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Heimdall 🤖](https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant) | Customize secondary screen with hotkeys and screen mirrored information. Standard theme for profiles, utilizes a grid layout, map & guide tabs, requires Shizuku for advanced features. |
 | [Hermit Browser](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab&pli=1) | Browser designed for web apps. Allows users to fullscreen websites, taking advantage of the entire secondary screen. Useful for guides, wikis, interactive maps, and web based localhost mods like JourneyMap Web Map. Open-source alternative: [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid) |
 | [Pixel Guide](https://github.com/rexmont/Pixel-Guide-Android) | App for downloading guides, walkthroughs, manuals, and maps from GameFAQs, Neoseeker, ZeldaDungeon, and more. Supports offline use, RetroAchievements, and optional Gemini AI integration. |
+| [Thor Wayfinder 🤖](https://github.com/Thor-Wayfinder/thor-wayfinder) | Utility app for the Ayn Thor. Includes controller hotkeys for screenshots, brightness adjustment, screen swapping, recent apps, input focus, mouse, and keyboard with layouts. Replaces Ayn button menu with customizable layout. Includes accurate FPS overlay, sleep management, joystick lighting, and improved audio EQ. |
 
 ---
 
