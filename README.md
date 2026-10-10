@@ -43,6 +43,10 @@ A collection of Android game ports and applications for dual screen Android devi
 | [NewHorizonsDS 🤖](https://github.com/igawa6/eden-duo-companions) | Animal Crossing: New Horizons | Requires Eden Duo fork and game update 3.0.3. DS interface with inventory management, Critterpedia, DIY recipes, Nook Miles +, turnip prices, NookPhone, and a live island map. |
 | [ThreeHousesDS 🤖](https://github.com/igawa6/eden-duo-companions) | Fire Emblem: Three Houses | Requires Eden Duo fork and game update 1.2.0. DS interface with monastery, battle maps, unit details, academy, calendar, and quests. |
 | [BOI-DS 🤖](https://github.com/igawa6/eden-duo-companions) | The Binding of Isaac: Afterbirth+/Repentance | Requires Eden Duo fork and game update 1.7.9b. DS interface with map, items, active items, item descriptions, coins bombs and keys, trinkets, and cards. |
+| [AM2R-Autopatcher](https://github.com/am2r-android/AM2R-Autopatcher-Android) | Metroid II: Return of Samus (AM2R) | Android patcher for AM2R with dual screen support. DS interface with health, ammo, energy tanks, missiles, and a live map. |
+| [Road Trip Recomp 🤖](https://github.com/silentsudin/RoadTripAdventure-recomp) | Road Trip | Recompilation of Road Trip for Android with dual screen support. DS interface with a map, notebook (stamps, coins, money), radio, and lap times in races. |
+| [Stardew-Thor-DS 🤖](https://github.com/hung-eggie-do-covergo/stardew-thor-dual-screen) | Stardew Valley | Dual screen SMAPI mod for use with Cinderbox. DS interface with today tab (luck, weather, crops, birthday), loved gifts, inventory management, crafting, and touch aiming. |
+| [Ayn-Thor-WoW-Launcher 🤖](https://github.com/wyattabuntjer/AYN-Thor-WoW-Launcher) | World of Warcraft | Fork of WoW Forever for Android with added clients and dual screen support. DS interface with a trackpad, keyboard, hotbar buttons, and shortcuts for map, character, spellbook, bags, and more. |
 ---
 
 ## Companion Apps
