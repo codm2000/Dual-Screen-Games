@@ -21,9 +21,12 @@ A collection of Android game ports and applications for dual screen Android devi
 | [Fallout Pip-Boy](https://www.nexusmods.com/fallout4/mods/67428) | Fallout 4 (GOG Game of the Year Edition) | Official Fallout 4 companion app made by Bethesda. Only works with GOG version of the game. Must obtain APK from a reupload. Utilizes secondary screen to view character stats, quests, inventory, and a live map. |
 | [BanjoRecomp Android](https://github.com/AurelioB/BanjoRecomp-Android) | Banjo-Kazooie | Recompilation featuring DS support with gameplay information moved to the secondary screen. Includes collectibles and % completion. |
 | [CTR-DS 🤖](https://github.com/igawa6/ctr-native-android) | Crash Team Racing | Fork of CTR Native with dual screen support. DS interface with track map, placements, items, time, and speedometer. |
-| [CTRNF-DS 🤖](https://github.com/igawa6/eden-duo-companions) | Crash Team Racing Nitro-Fueled | Requires Eden Duo foro and game update 1.0.15. DS interface track map, placements, items, time, and speedometer. |
+| [CTRNF-DS 🤖](https://github.com/igawa6/eden-duo-companions) | Crash Team Racing Nitro-Fueled | Requires Eden Duo fork and game update 1.0.15. DS interface track map, placements, items, time, and speedometer. |
+| [MarioKartWii-DS 🤖](https://github.com/Maddex712/WiiDS) | Mario Kart Wii | Fork of Wiicompiled with Retro Rewind and dual screen support. DS interface with rank bar, items, live map, and timer. |
 | [MarioKart8DeluxeDS 🤖](https://github.com/igawa6/eden-duo-companions) | Mario Kart 8 Deluxe | Requires Eden Duo fork and game update 4.0.0 or 3.0.3. Supports CTGP Deluxe mod. DS interface with rank bar, horn mode, map mode with racer positions, and item button. |
+| [NSMB-DS 🤖](https://github.com/Maddex712/WiiDS) | New Super Mario Bros. Wii | Fork of NSMB Wii recomp with MidGuyDP's level pack and dual screen support. DS interface with course progress, score, star coins, item box, and lives. |
 | [SMBWonder-DS 🤖](https://github.com/igawa6/eden-duo-companions) | Super Mario Bros. Wonder | Requires Eden Duo fork and game update 1.2.1. DS interface with course progress including location of checkpoints, secret exits, 10-flower coins, and wonder seeds. Also displays lives, coins, flower coins, and power up. |
+| [SMSunshine-DS 🤖](https://github.com/Maddex712/WiiDS) | Super Mario Sunshine | Fork of SMS decomp with Eclipse and dual screen support. DS interface with area map, postcard, coins, blue coins, and shine sprites. |
 | [Tomba2RecompDS 🤖](https://github.com/igawa6/Tomba2RecompDS) | Tomba! 2: The Evil Swine Return | Fork of Tomba2Recomp with dual screen support. DS interface with items, events, status, equipment, and a help tab for optional walkthrough. |
 | [DW3-DS 🤖](https://github.com/rsigristc/DW3-DS-Android) | Digimon World (2003) | Companion app for Digimon World 2003 (SLES-03936) with support for Flawe's Mod 2.0. DS interface with battle, fast travel, tamer, partners, story stage, equipment and an offline walkthrough. |
 | [Balatro Dual Screen 🤖](https://github.com/rosbean/balatro-dualscreen) | Balatro | DS fork of Balatro. Requires Steam, macOS, or .love copy of the game. Moves hand, shop, booster packs, and menus to the secondary screen. |
@@ -57,6 +60,7 @@ A collection of Android game ports and applications for dual screen Android devi
 | [FarmingSim-DS 🤖](https://github.com/igawa6/eden-duo-companions) | Farming Simulator: Nintendo Switch Edition | Requires Eden Duo fork and game update 1.5.0.1. DS interface with map, garage, operations, animals, shop, finances, prices, and statistics. |
 | [PT-PC 🤖](https://github.com/StoneColdOS/pt-pc) | P.T. | Android port of LoreanXavier's P.T. PC port with dual screen support. DS interface with hallway clock and subtitles. |
 | [VA-11 Hall-A DS 🤖](https://github.com/igawa6/eden-duo-companions) | VA-11 Hall-A: Cyberpunk Bartender Action | Requires Eden Duo fork. DS interface for mixing drinks and portraits during dialogue. |
+| [ReRAC-DS 🤖](https://github.com/HighDrexler/rerac-Android-APK-and-Ayn-Thor-Dual-Screen-Mod-Beta-) | Ratchet & Clank | Fork of ReRAC with dual screen support. DS interface with maps, menus, weapons, gadgets and quick selection. |
 ---
 
 ## Companion Apps
